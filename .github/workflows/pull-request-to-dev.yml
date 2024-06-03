@@ -7,7 +7,7 @@ jobs:
       - name: Checkout        
         uses: actions/checkout@v3
       - name: Install requirements        
-        run: pip install -r /home/redos/var_keeper/src/app/requirements.txt
+        run: pip install -r requirements.txt
       - name: Run app        
         run: python3 ./src/app/app.py &
       - name: Test GET-request        
