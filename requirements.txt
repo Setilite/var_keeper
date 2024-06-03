@@ -8,7 +8,7 @@ blinker==1.8.2
 certifi==2020.6.20
 chardet==4.0.0
 click==8.1.7
-cloud-init==23.3.3
+cloud-init==22.2
 colorama==0.4.4
 command-not-found==0.3
 configobj==5.0.6
@@ -35,6 +35,8 @@ lazr.restfulclient==0.14.4
 lazr.uri==1.0.6
 MarkupSafe==2.1.5
 more-itertools==8.10.0
+bash: line 1: r: command not found
+bash: line 1: r: command not found
 netifaces==0.11.0
 oauthlib==3.2.0
 packaging==24.0
