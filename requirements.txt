@@ -35,8 +35,6 @@ lazr.restfulclient==0.14.4
 lazr.uri==1.0.6
 MarkupSafe==2.1.5
 more-itertools==8.10.0
-bash: line 1: r: command not found
-bash: line 1: r: command not found
 netifaces==0.11.0
 oauthlib==3.2.0
 packaging==24.0
